@@ -1,3 +1,0 @@
-#!/bin/bash
-
-java -jar ~/Desktop/Tools/Network/rmiscout/build/libs/rmiscout-1.03.2-SNAPSHOT-all.jar "$@"
